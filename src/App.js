@@ -9,8 +9,8 @@ import './App.css'
 const App = () => {
   return (
     <GlobalProvider>
-      <Header/>
-      <div className='balance'>
+    <div className='mainDiv'>
+        <Header/>
         <Balance/>
         <IncomeExpences/>
         <TransactionList/>

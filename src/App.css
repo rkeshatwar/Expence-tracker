@@ -19,6 +19,13 @@ body {
   font-family: 'Lato', sans-serif;
 }
 
+.mainDiv{
+  padding: 10px 50px 10px 50px;
+  border-radius: 25px;
+  box-shadow: 5px 5px 15px -5px rgba(0, 0, 0, 0.3);
+  background-color: #f7f7f7;
+}
+
 .container {
   margin: 30px auto;
   width: 350px;
